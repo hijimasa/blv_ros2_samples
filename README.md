@@ -3,4 +3,4 @@ This packages are ROS2 samples to control BLV motors made by Oriental Motor Corp
 
 # Caution
 This repository is not tested with real robot.
-I checked in ROS2 Humble. 
+I checked to compile with ROS2 Humble. 
